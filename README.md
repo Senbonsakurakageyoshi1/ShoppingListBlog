@@ -1,0 +1,2 @@
+# ShoppingListBlog
+Blog for shoppinglistproducts
